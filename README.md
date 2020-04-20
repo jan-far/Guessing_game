@@ -1,2 +1,2 @@
 # Guessing_game
-Python 3 level guessing game, easy, medium and hard
+3 level python guessing game, easy, medium and hard
